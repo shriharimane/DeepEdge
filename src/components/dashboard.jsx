@@ -764,7 +764,7 @@ function Dashboard() {
 /* ══════════════════════════════════════════════
    ROOT
 ═══════════════════════════════════════════════ */
-export default function App() {
+export default function Dash() {
   const [booted, setBooted] = useState(false);
   return (
     <>
